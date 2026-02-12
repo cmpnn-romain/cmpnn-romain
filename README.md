@@ -29,8 +29,8 @@ I love working with modern technologies and pushing the boundaries of what's pos
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cmpnn-romain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Romain's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cmpnn-romain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cmpnn-romain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Romain's GitHub Stats" />
 </div>
 
 <br />
