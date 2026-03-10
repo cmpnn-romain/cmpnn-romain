@@ -8,8 +8,17 @@
     </a>
   </p>
 
+  <br>
+  <br>
+
   <p align="center">
-    <strong>Full Stack Developer | CyberSecurity Enthusiast | Blockchain Enthusiast</strong>
+    <strong>CyberSecurity Governance (Master's degree)
+  </p>
+  <p align="center">
+    <strong>Full Stack (Bachelor's degree)
+  </p>
+  <p align="center">
+    <strong>Blockchain enthusiast
   </p>
 </div>
 
@@ -17,12 +26,12 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer focused on building high-performance applications.
+I'm a passionate developer focused on building blockchain and cybersecurity related applications.
 
-I love working with modern technologies and pushing the boundaries of what's possible.
-
-- 🛡️ I’m currently working in cybersecurity GRC.
-- ⛓️ I’m currently learning deeper on **blockchain** technologies and **smart contracts**.
+I am currently working on multiple private blockchain/crypto repo such as:
+- MNT_FA - Delta-Neutral Funding Arbitrage
+- MNT_RL - Recursive Leverage
+- NMT_CLP - Concentrated Liquidity Provisioning
 
 ---
 
