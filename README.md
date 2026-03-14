@@ -28,11 +28,6 @@
 
 I'm a passionate developer focused on building blockchain and cybersecurity related applications.
 
-I am currently working on multiple private blockchain/crypto repo such as:
-- MNT_FA - Delta-Neutral Funding Arbitrage
-- MNT_RL - Recursive Leverage
-- NMT_CLP - Concentrated Liquidity Provisioning
-
 ---
 
 ### 📊 GitHub Stats
