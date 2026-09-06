@@ -15,7 +15,7 @@
 <h2>About Me</h2>
 
 <p>
-  I'm a passionate developer focused on building <strong>cybersecurity</strong> related applications but not only.
+  I'm a passionate developer focused on <strong>cybersecurity</strong> but not only.
 </p>
 
 <br>
@@ -31,6 +31,5 @@
 <h2>My GitHub stats:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cmpnn-romain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cmpnn-romain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Romain's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=cmpnn-romain&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
