@@ -1,28 +1,35 @@
 <div align="center">  
-  <h1>Hi there, I'm Romain 👋</h1>
+  <h1>Hey there!</h1>
 </div>
 
 <br>
 
 <h2>About Me:</h2>
 <p>
-  French dev who started coding in my bedroom, got the degree, and ended up in cyber governance
+  My name's Romain, I'm a French dev working on multiple projects, you can check them out bellow.
 </p>
+
+<br>
+
+<h2>Projects:</h2>
+<ul>
+  <li><strong><a href="https://nordath.com/">Nordath</a></strong> - B2B SaaS and business intelligence platform</li>
+  <li><strong><a href="https://github.com/Cairn-client">Cairn</a></strong> - Turn single-player adventures into shared co-op experiences with a single launcher</li>
+</ul>
 
 <br>
 
 <h2>Education:</h2>
 <ul>
-  <li><strong>Cybersecurity, Network & Cloud</strong> - Master's degree</li>
-  <li><strong>Application Designer-Developer</strong> - Bachelor's degree</li>
+  <li><strong>Master's degree</strong> - Networks, Infrastructure, and Security</li>
+  <li><strong>Bachelor's degree</strong> - Application Designer-Developer</li>
 </ul>
 
 <br>
 
 <h2>Links:</h2>
 <ul>
-  <li><a href="https://compagnonromain.com/">My Portfolio</a></li>
-  <li><a href="http://nordath.com/">Nordath</a></li>
+  <li><a href="https://compagnonromain.com/">Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/compagnonromain/">LinkedIn</a></li>
   <li><a href="https://x.com/cmpnn_romain">Twitter</a></li>
 </ul>
