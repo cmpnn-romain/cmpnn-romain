@@ -1,42 +1,39 @@
-<div align="center">  
-  <h1>Hey there!</h1>
+<div align="center">
+  <h1>Hi, I'm Romain</h1>
+  <p><em>Forensic Technology, Cyber-fraud, and OSINT Analyst</em></p>
 </div>
 
 <br>
 
-<h2>About Me:</h2>
-<p>
-  My name's Romain, I'm a French dev working on multiple projects, you can check them out bellow.
-</p>
+## 🔍 Focus & Expertise
+* **Core Domains:** Corporate Intelligence, Financial Forensics, and Technical OSINT.
+* **Specialty:** Automated entity/registry mapping, containerized OSINT workflows, and secure infrastructure.
+* **Credentials:** Certified in Open-Source Intelligence, Financial Analysis, and Data Harvesting.
 
 <br>
 
-<h2>Projects:</h2>
-<ul>
-  <li><strong><a href="https://nordath.com/">Nordath</a></strong> - B2B SaaS and business intelligence platform</li>
-  <li><strong><a href="https://github.com/Cairn-client">Cairn</a></strong> - Turn single-player adventures into shared co-op experiences with a single launcher</li>
-</ul>
+## 🛠️ Key Projects & Tooling
+
+| **[Ridge](https://github.com/Ridge-org)** | **[Nordath](https://nordath.com/)** | **[Cairn](https://github.com/Cairn-client)** |
+| :--- | :--- | :--- |
+| *Native Rust & Docker OSINT tool featuring automated health checks and persona containers.* | *B2B SaaS and business intelligence platform for real estate cadastral mapping and data pipelines.* | *Co-op infrastructure launcher tooling turning single-player games into shared experiences.* |
 
 <br>
 
-<h2>Education:</h2>
-<ul>
-  <li><strong>Master's degree</strong> - Networks, Infrastructure, and Security</li>
-  <li><strong>Bachelor's degree</strong> - Application Designer-Developer</li>
-</ul>
+## 🎓 Education & Background
+* **Master** – Network Infrastructure & Security Expert
+* **Bachelor** – Computer Science & Application Development
+* **baccalaureate** – Economic and Social Science; History-Geography, Geopolitics and Political Science
 
 <br>
 
-<h2>Links:</h2>
-<ul>
-  <li><a href="https://compagnonromain.com/">Portfolio</a></li>
-  <li><a href="https://www.linkedin.com/in/compagnonromain/">LinkedIn</a></li>
-  <li><a href="https://x.com/cmpnn_romain">Twitter</a></li>
-</ul>
+## 🌐 Connect
+* **Portfolio:** [compagnonromain.com](https://compagnonromain.com/)
+* **LinkedIn:** [in/compagnonromain](https://www.linkedin.com/in/compagnonromain/)
+* **Twitter:** [@cmpnn_romain](https://x.com/cmpnn_romain)
 
 <br>
 
-<h2>My GitHub stats:</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cmpnn-romain&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
