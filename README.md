@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Hi, I'm Romain</h1>
+  <h1>Hey there, I'm Romain</h1>
   <p><em>Forensic Technology, Cyber-fraud, and OSINT Analyst</em></p>
 </div>
 
 <br>
 
-## 🔍 Focus & Expertise
+## Focus & Expertise
 * **Core Domains:** Corporate Intelligence, Financial Forensics, and Technical OSINT.
 * **Specialty:** Automated entity/registry mapping, containerized OSINT workflows, and secure infrastructure.
 * **Credentials:** Certified in Open-Source Intelligence, Financial Analysis, and Data Harvesting.
 
 <br>
 
-## 🛠️ Key Projects & Tooling
+## Key Projects & Tooling
 
 | **[Ridge](https://github.com/Ridge-org)** | **[Nordath](https://nordath.com/)** | **[Cairn](https://github.com/Cairn-client)** |
 | :--- | :--- | :--- |
@@ -20,17 +20,18 @@
 
 <br>
 
-## 🎓 Education & Background
+## Education & Background
 * **Master** – Network Infrastructure & Security Expert
 * **Bachelor** – Computer Science & Application Development
 * **Baccalaureate** – Economic and Social Science; History-Geography, Geopolitics and Political Science
 
 <br>
 
-## 🌐 Connect
+## Connect
 * **Portfolio:** [compagnonromain.com](https://compagnonromain.com/)
 * **LinkedIn:** [in/compagnonromain](https://www.linkedin.com/in/compagnonromain/)
 * **Twitter:** [@cmpnn_romain](https://x.com/cmpnn_romain)
+* **Medium:** [@cmpnn_romain](https://medium.com/@cmpnn-romain)
 
 <br>
 
