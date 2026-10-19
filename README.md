@@ -14,7 +14,7 @@
 
 ## Key Projects & Tooling
 
-| **[Ridge](https://github.com/Ridge-org)** | **[Nordath](https://nordath.com/)** | **[Cairn](https://github.com/Cairn-client)** |
+| **[Ridge repo](https://github.com/Ridge-client)** | **[Nordath repo](https://github.com/Nordath)** - **[Nordath.com](https://nordath.com/)** | **[Cairn repo](https://github.com/Cairn-client)** |
 | :--- | :--- | :--- |
 | *Native Rust & Docker OSINT tool featuring automated health checks and persona containers.* | *B2B SaaS and business intelligence platform for real estate cadastral mapping and data pipelines.* | *Co-op infrastructure launcher tooling turning single-player games into shared experiences.* |
 
