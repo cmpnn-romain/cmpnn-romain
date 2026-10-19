@@ -23,7 +23,7 @@
 ## 🎓 Education & Background
 * **Master** – Network Infrastructure & Security Expert
 * **Bachelor** – Computer Science & Application Development
-* **baccalaureate** – Economic and Social Science; History-Geography, Geopolitics and Political Science
+* **Baccalaureate** – Economic and Social Science; History-Geography, Geopolitics and Political Science
 
 <br>
 
